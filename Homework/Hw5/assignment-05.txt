@@ -1,0 +1,26 @@
+
+ASSIGNMENT #5: DUE: April 18!
+==============
+
+Goal: Familiarize with statistical methods and properties of language.
+
+Remember the homework is due by midnight on the due date via email to the TA!
+_________________________________________________________________
+
+1. [10 points] From the SnapshotBROWN.pos.all.txt file extract all
+   word types and their frequencies. Sort the list of word types in 
+   decreasing order based on their frequency. Draw a chart showing the
+   relationship between the rank in the ordered list and the frequency
+   (Zipf's Law). Do not stem but do ignore punctuation.
+
+-----------------------------------------------------------------
+
+2. [20 points] Generate a Bigram Grammar from the above file. Perform
+   add-one smoothing. Show the grammar before and after smoothing for
+   the sentence "A similar resolution passed in the Senate".
+
+*****************************************************************
+
+Questions?: Call x5259 or email vrus@memphis.edu .
+
+
