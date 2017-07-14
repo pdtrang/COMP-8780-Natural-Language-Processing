@@ -1,0 +1,25 @@
+So for the second time, President Trump was in the position of vouching for one of his top appointees who has been caught not telling the full truth about conversations with Moscow’s top man in Washington.
+Trump’s difficulties have been compounded by some of his own tendencies — among them, his inclination to personalize issues that potentially have much broader implications.
+Russia will issue the cards which will be needed to enter the stadiums and can be used as a visa to enter the country.
+The Confederations Cup begins in June and will be played in four of the 11 World Cup host cities. It will feature eight teams, including the hosts and World Cup champions Germany.
+There will be a 20,000-square-foot museum highlighting Elvis's music, movie, and live touring career. There will be hundreds of artifacts from the Graceland Archives. 
+After a day of immediate and widespread outrage on social media — including from Foley’s family — Le Pen ultimately took down the tweet.
+Because French law considers the dissemination of violent images a potential incitement of terrorist activity, prosecutors were keen to pursue a case against Le Pen.
+But they could not, as Le Pen was a member of the European Parliament, an institution that guarantees immunity to its deputies to protect their freedom of speech.
+For her part, Le Pen insisted that the tweet was posted well within her capacity as a parliamentary deputy.
+The New York Giants defeating the 18-0 New England Patriots, and the Average Joes beating the heavily favored Purple Cobras in the dodgeball finals.
+We can’t get into a review of Ryzen without first recalling the tragic circumstances that came before it: AMD’s Bulldozer and Vishera CPUs sold under the FX brand.
+The failure of Bulldozer and Vishera left AMD languishing for years, all but abandoning the high end and nursing itself on an ARM CPU for servers.
+The FX CPUs used a technique called clustered multithreading (CMT) that shared key components of the chip; they were built on an uncompetitive 32nm, and later 28nm, process; and the 8-core versions more often than not lost to Intel’s 4-core chips.
+As anyone who has wallowed in failure only to return to greatness knows, tragedy and loss only make an underdog story sweeter. 
+Ryzen CPUs are built on a state-of-the-art 14nm process by AMD’s spun-off fab, Global Foundries.
+The remaining PCIe lanes can be used by the motherboard maker for NVMe or other I/O options.
+While Intel’s highest-end consumer Z270 chipset appears to have a lot more I/O with up to 24 lanes of PCIe of its own, a bottleneck between the consumer-grade chipset and CPU keep it from being utilized.
+But for those who need insane numbers of PCIe lanes, for, say, multiple NVMe drives that will be used simultaneously, Intel’s Broadwell-E and its X99 chipset have the advantage.
+Each of the PCs was also built using the same SSD and GPU, and the latest BIOS was used on each board.
+When the system was down, websites could not access the photos, logos, lists or data they normally would have pulled from the cloud. 
+On Tuesday morning, an Amazon team was investigating a problem that was slowing down the S3billing system.
+All of this wasn't just affecting Amazon's S3 customers, it was also hitting other Amazon cloud customers as well — because it turns out those systems use S3, too.
+To make sure the problem doesn't happen again, Amazon has rewritten its software tools so its engineers can't make the same mistake, and it's doing safety checks elsewhere in the system.
+But when it does, it feels earned, and you’re grateful to the movie for not milking it.
+Randa, with his nose for bizarre events that are covered up by the establishment, has gotten wind of rumblings about something hidden away on an uncharted South Pacific island. 
