@@ -1,0 +1,33 @@
+
+Assignment #3: Due March 2.
+
+Remember that the homework is due by midnight on the due date. You must 
+turn in a soft copy via email to TA. Your submission should have a cover page 
+and one or more summary pages where you provide for each problem the
+answer. You should not submit the data you use if the data is too
+large. You must submit your code.
+
+-----------------------------------------------------------------------
+
+1. Build a baseline statistical tagger.
+
+(i) [10 points] Use the assignment#2's hash of hashes to train a
+baseline lexicalized statistical tagger on the entire BROWN corpus.
+
+(ii) [20 points] Use the baseline lexicalized statistical tagger to tag 
+all the words in the SnapshotBROWN.pos.all.txt file. Evaluate and report the
+performance of this baseline tagger on the Snapshot file.
+
+(iii) [20 points] add few rules to handle unknown words for the tagger
+   in (ii). The rules can be morphological, contextual, or of other
+   nature. Use 25 new sentences to evaluate this tagger (the (ii) tagger +
+   unknown word rules). You can pick 25 sentences from a news article
+   from the web and report the performance on those.
+
+NOTE: You should only consider the 45 proper tags from Penn Treebank
+tagset (available in the slides). You should disregard tags such as
+-NONE-, etc.
+
+-----------------------------------------------------------------------
+
+If you have any questions contact me (vrus@memphis.edu, x5259).
